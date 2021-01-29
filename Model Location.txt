@@ -1,0 +1,3 @@
+The model can be downloaded here: https://drive.google.com/drive/folders/1v4my_f2HY2oUuwSQUIvZCU67DlBlAdRc?usp=sharing 
+
+Run the implementation notebook to make predictions
